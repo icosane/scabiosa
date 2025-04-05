@@ -1,5 +1,5 @@
 # How to use
-Login to your livechart.me account and go to your [list](https://www.livechart.me/users/yourusername/library).
+Login to your livechart.me account and go to ```https://www.livechart.me/users/%yourusername%/library```. Replace ```%yourusername%``` with your actual username.
 
 
 Select all or some of your lists. Press F12 and search for `script id="library_entries"`. Open it and copy everything
